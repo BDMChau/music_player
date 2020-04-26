@@ -22,6 +22,8 @@ Open localhost:4000 and take a look around
 
 ## Tutorial
 Upload your file (up to 3 files at a time)
+
 Maybe have to reload page to see the results
+
 When you have file(s) uploaded, click title and relax with your music
 
