@@ -5,8 +5,8 @@
 }
 
 :root {
-  --primary-color: #1e2131e0;
-  --primary-hover-color: #1e2131;
+  --primary-color: #1e212de0;
+  --primary-hover-color: #1e212df5;
   --secondary-color: #d4d4d4;
 }
 
@@ -42,6 +42,7 @@ html {
   max-height: 500px;
   height: 110px;
   border-right: 4px outset#cccaca47;
+  border-radius: 3px;
   background-color: var(--primary-color);
   display: flex;
   flex-direction: row;
@@ -183,6 +184,7 @@ a button {
   border: none;
   border-bottom: 4px outset#cccaca47;
   border-right: 4px outset#cccaca47;
+  border-radius: 3px;
   transition: 0.5s;
   font-size: 16px;
   font-weight: 600;
