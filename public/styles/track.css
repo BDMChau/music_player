@@ -10,7 +10,8 @@
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   margin: 0;
-  background-color: #0000004a;
+  width: 100%;
+  height: 100%;
 }
 
 #app-cover {
@@ -211,26 +212,7 @@ body {
   z-index: 1;
 }
 
-/* #album-art.active img.active{
-
-    z-index: 1;
-    -webkit-animation: rotateAlbumArt 3s linear 0s infinite forwards;
-            animation: rotateAlbumArt 3s linear 0s infinite forwards;
-} */
-
-/* @-webkit-keyframes rotateAlbumArt{
-
-    0% -webkit-transform: rotateZ(0); transform: rotateZ(0); }
-    100% -webkit-transform: rotateZ(360deg); transform: rotateZ(360deg); }
-}
-
-@keyframes rotateAlbumArt{
-
-    0% -webkit-transform: rotateZ(0); transform: rotateZ(0); }
-    100% -webkit-transform: rotateZ(360deg); transform: rotateZ(360deg); }
-} */
-
-#buffer-box {
+/* #buffer-box {
   position: absolute;
   top: 50%;
   right: 0;
@@ -253,7 +235,7 @@ body {
 #buffer-box {
   -webkit-transition: 0.5s all;
   transition: 0.5s all;
-}
+} */
 
 #album-art.buffering img {
   opacity: 0.25;
