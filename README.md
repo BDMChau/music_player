@@ -17,7 +17,8 @@ npm install
 ```
 npm start
 ```
-Open [localhost:4000](http://localhost:4000/) and take a look around  
+
+Open localhost:4000 and take a look around  
 
 ##Tutorial
 Upload your file (up to 3 files at a time)
