@@ -14,9 +14,8 @@ process.env.PASSWORD_POSTGRES
 run npm install to install essential packet, after that run npm start
 ```
 npm install
-```
+
 npm start
-```
 
 Open localhost:4000 and take a look around  
 
