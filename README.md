@@ -1,23 +1,21 @@
-#Music player
+# Music player
 This app is built to listen to music on a website. 
 
-##Technology
+## Technology
 With nodejs, database with postgres sequelize
 
-##Requirements
-node packet: https://nodejs.org/en/
+## Requirements
+node packet: [nodejs](https://nodejs.org/en/)
 
-##.env include
+## .env include
 process.env.PASSWORD_POSTGRES
 
-##Usage
+## Usage
 run npm install to install essential packet, after that run npm start
-```bash
 npm install
 ```
-```bash
 npm start
-```
+
 Open [localhost:4000](http://localhost:4000/) and take a look around  
 
 ##Tutorial
