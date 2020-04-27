@@ -1,4 +1,4 @@
-const snows = []; // array to hold snowflake objects
+const snows = [];
 
 function setup() {
     createCanvas(window.innerWidth, window.innerHeight);
