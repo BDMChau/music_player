@@ -79,6 +79,8 @@ route.post("/", (req, res) => {
                           console.log(created);
                         }
                       })
+
+                    res.redirect("/")
                   }
                 } catch (error) {
                   console.log(error);
@@ -90,7 +92,7 @@ route.post("/", (req, res) => {
         }
         );
       }
-      return res.redirect("/");
+      return;
     }
   });
 });
