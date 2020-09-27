@@ -2,7 +2,7 @@
 This app is built to listen to music on a website. 
 ___
 ## Technology
-With nodejs, database with postgres sequelize
+Nodejs, database with postgres sequelize
 
 ## Requirements
 node packet: [nodejs](https://nodejs.org/en/)
@@ -11,7 +11,7 @@ node packet: [nodejs](https://nodejs.org/en/)
 process.env.PASSWORD_POSTGRES
 
 ## Usage
-run npm install to install essential packet, after that run npm start
+run `npm install` to install essential packet, after that run `npm start`
 ```
 npm install
 
