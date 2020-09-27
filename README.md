@@ -1,6 +1,6 @@
 # Music player
 This app is built to listen to music on a website. 
-
+___
 ## Technology
 With nodejs, database with postgres sequelize
 
